@@ -25,14 +25,14 @@ a {
 }
 .assign img {
   padding: 10px;
-  border: 2px solid midnightblue;
+  border: 1px solid white;
 }
 .assign {
   border-radius: 20px;
 }
 a:hover {
   text-decoration: none;
-  color: salmon;
+  color: grey;
 }
 
 
